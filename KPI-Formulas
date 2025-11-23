@@ -1,0 +1,3 @@
+OT%   = Orders delivered on time / Total orders
+IF%   = Orders delivered in full / Total orders
+OTIF% = Orders that are both on time and in full / Total orders
